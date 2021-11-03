@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Bodoni Moda';
+    src: url('../fonts/BodoniModa-Regular.eot');
+    src: url('../fonts/BodoniModa-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BodoniModa-Regular.woff2') format('woff2'),
+        url('../fonts/BodoniModa-Regular.woff') format('woff'),
+        url('../fonts/BodoniModa-Regular.ttf') format('truetype'),
+        url('../fonts/BodoniModa-Regular.svg#BodoniModa-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins Bold';
+    src: url('../fonts/Poppins-Bold.eot');
+    src: url('../fonts/Poppins-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Bold.woff2') format('woff2'),
+        url('../fonts/Poppins-Bold.woff') format('woff'),
+        url('../fonts/Poppins-Bold.ttf') format('truetype'),
+        url('../fonts/Poppins-Bold.svg#Poppins-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-Light.eot');
+    src: url('../fonts/Poppins-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Poppins-Light.woff2') format('woff2'),
+        url('../fonts/Poppins-Light.woff') format('woff'),
+        url('../fonts/Poppins-Light.ttf') format('truetype'),
+        url('../fonts/Poppins-Light.svg#Poppins-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+
+
+
+
